@@ -1,3 +1,9 @@
+[![make.fun · free-model-aggregator-01](https://make.fun/badge/free-model-aggregator-01.svg)](https://make.fun/bounty/free-model-aggregator-01?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-01)
+[![rank](https://make.fun/badge/free-model-aggregator-01/Masasiya00/makefun-aggregator/rank.svg)](https://make.fun/bounty/free-model-aggregator-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-01)
+[![reward](https://make.fun/badge/free-model-aggregator-01/Masasiya00/makefun-aggregator/reward.svg)](https://make.fun/bounty/free-model-aggregator-01?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-01)
+
+[Free Model Aggregator bounty on make.fun](https://make.fun/bounty/free-model-aggregator-01)
+
 # Free Model Aggregator — make.fun bounty entry
 
 One Node 22 server (stdlib only) that routes each request to the best **free** model that can
